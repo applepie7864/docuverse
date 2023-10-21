@@ -1,7 +1,7 @@
 # docuverse
 A streamlit document chatbot application using LLM from HuggingFace API
 
-![Application](./img-folder/docuverse-img.png)
+![Application Image](./img-folder/docuverse-img.png)
 
 ### Setup:
 I'm using 64-bit Python v3.6.9
@@ -18,3 +18,5 @@ I'm using 64-bit Python v3.6.9
    - Inside this file write: HUGGINGFACEHUB_API_TOKEN=your_token
 
 ### How it Works:
+![Flowchart](./img-folder/flowchart.jpg)
+1. A user submits a PDF Document to be processed
